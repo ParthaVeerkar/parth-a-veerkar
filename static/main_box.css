@@ -1,0 +1,158 @@
+* {
+margin: 1px auto;
+text-align: center;
+font-family: 'Nova Square', cursive;
+}
+
+
+a:link{color: #661C28;}
+a:visited{color: #661C28;}
+a:hover{color: white;}
+
+body {
+margin: 0;
+background-color:#262416;
+/*
+background-image:-webkit-linear-gradient(top, #1C3D57, #0F3161, #1C3D57);
+background-repeat:no-repeat;
+*/
+padding: 0;
+height: 100%;
+min-height: 100%;
+}
+
+#container {
+/*background-color: #294052;*/
+width:732px;
+padding:0px;
+height: 100%;
+min-height: 100%;
+}
+
+#header {
+text-align: left;
+background-color:#CC9900;
+margin-top: -60px;
+border-radius:4px;
+padding:2px;
+padding-left:130px;
+font-size:22px;
+
+padding-bottom: 10px;
+width:600px;
+}
+
+#myFace {
+align: left;
+margin: 10px;
+margin-right:600px;
+}
+
+#menuUl {
+list-style-type: none;
+margin: 0px;
+padding: 0px;
+width:100%;
+height:100%;
+}
+
+#bodyDiv {
+text-align:left;
+width:732px;
+padding: 0px;
+}
+
+#menu {
+margin: 20px;
+display:inline-block;
+font-size: 10px;
+text-align:left;
+height: 100%;
+width:100px;
+vertical-align:top;
+padding: 0px;
+}
+
+.menuLi {
+text-align:center;
+width: 100%;
+padding:2px;
+background-color:#76988F;
+margin:2px;
+cursor:pointer;
+border-radius:2px;
+}
+
+.menuLi:hover {
+background-color: #8FBCDB;
+}
+
+#content {
+display:inline-block;
+font-size:10px;
+margin:25px;
+}
+
+.contentDiv {
+position:relative;
+text-align:left;
+background-color:#614900;
+padding:7px;
+border-radius:2px;
+margin-bottom: 5px;
+padding-left: 10px;
+
+}
+
+#first {
+margin-left:0px;
+width:200px;
+}
+
+#second {
+margin-left:20px;
+width:250px;
+}
+
+#third {
+margin-left:10px;
+width:230px;
+}
+
+#fourth {
+margin:0px;
+width:170px;
+}
+#firstWork {
+margin-left:0px;
+width:200px;
+}
+
+#secondWork {
+margin-left:20px;
+width:250px;
+}
+
+#thirdWork {
+margin-left:10px;
+width:150px;
+}
+
+#blogContent {
+width:400px;
+height:600px;
+margin:5px;
+background-color:#76988F;
+border-radius:2px;
+padding:5px;
+padding-left:15px;
+text-align:left;
+}
+
+
+/*
+Colors:
+#294052
+#447294
+#8FBCDB
+*/
