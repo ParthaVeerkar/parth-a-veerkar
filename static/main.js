@@ -52,7 +52,7 @@ mobilePage.roundDivs [3].addEventListener("click",mobilePage.changeBlog,false);
       mobilePage.flags [2] = 0;
       return;
 }
-    mobilePage.roundDivs [2].innerHTML = '<br />You can contact me via e-mail: partha.veerkar@gmail.com<br /><br />or follow my project group on <a href="http://www.github.com/project47"<br />                     github.com/project47</a><br /><br />or find me on:<br /><a href="http://www.facebook.com/parth.veerkar">facebook</a><br /><a  href="http://www.linkedin.com/in/parthaveerkar">linkedin</a><br /><br />';
+    mobilePage.roundDivs [2].innerHTML = '<br />You can contact me via e-mail:<br/><span id="email">partha.veerkar<br/ >@gmail.com</span><br /><br />or follow my project group on <a href="http://www.github.com/project47"<br />                     github.com/project47</a><br /><br />or find me on:<br /><a href="http://www.facebook.com/parth.veerkar">facebook</a><br /><a  href="http://www.linkedin.com/in/parthaveerkar">linkedin</a><br /><br />';
     mobilePage.flags [2] = 1;
   },
 

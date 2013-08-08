@@ -1,3 +1,11 @@
+/*
+
+This is modified version of impress.js.
+I just modified it a little it to make it work on click events
+*/
+
+
+
 /**
  * impress.js
  *
